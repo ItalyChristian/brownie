@@ -17,6 +17,13 @@ export default function Home() {
           style={{ width: "100%", height: "100%" }}
         />
       </main>
+      <a
+        href="mailto:"
+        aria-label="enviar email"
+        className="text-slate-500 font-extrabold"
+      >
+        Brownie
+      </a>
     </div>
   );
 }
