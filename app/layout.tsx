@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Brownie",
   description: "Brownie",
+  icons: {
+    icon: "/brownie.png",
+  },
 };
 
 export default function RootLayout({
